@@ -1,5 +1,0 @@
-dataset,block,model,variant,acc,f1,roc_auc
-name,utility,logreg,real,0.720779,0.574257,0.813889
-name,utility,logreg,syn_base,0.649351,0.490566,0.673519
-name,utility,logreg,syn_ft,0.74026,0.574468,0.730556
-name,utility,logreg,mix_base,0.714286,0.576923,0.763889
