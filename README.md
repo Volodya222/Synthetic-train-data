@@ -16,7 +16,7 @@
 │   └── Синтетика_full.ipynb          # основной ноутбук: пайплайн генерации/оценки
 ├── results/
 │   ├── tables/                       # таблицы метрик/сводки
-│   │   └── utility_metrics_example.csv
+│   │   
 │   └── plots/                        # сохранённые графики (папка под артефакты)
 ├── requirements.txt
 └── README.md
