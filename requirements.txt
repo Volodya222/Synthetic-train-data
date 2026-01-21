@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+optuna
+torch
+ctgan
+sdv
+catboost
+lightgbm
+xgboost
+ucimlrepo
+nbformat
