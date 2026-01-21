@@ -1,0 +1,16 @@
+dataset,block,model,variant,rmse,mae,r2,nrmse
+name,utility,ridge,real,53.777454,42.811999,0.454147,0.738819
+name,utility,ridge,syn_base,73.147965,57.664673,-0.009904,1.00494
+name,utility,ridge,syn_ft,65.964826,51.712086,0.178703,0.906255
+name,utility,ridge,mix_base,54.259619,44.05881,0.444314,0.745443
+name,utility,ridge,mix_ft,53.557646,42.434783,0.4586,0.735799
+name,utility,xgb,real,56.94408,45.354705,0.38797,0.782324
+name,utility,xgb,syn_base,74.107799,61.186296,-0.036581,1.018126
+name,utility,xgb,syn_ft,69.883619,56.547763,0.078222,0.960093
+name,utility,xgb,mix_base,52.935138,41.935197,0.471112,0.727247
+name,utility,xgb,mix_ft,54.723251,42.953557,0.434778,0.751813
+name,utility,lgbm,real,57.518704,44.935679,0.375556,0.790218
+name,utility,lgbm,syn_base,70.9198,56.93821,0.050684,0.974328
+name,utility,lgbm,syn_ft,71.181412,56.346195,0.043668,0.977922
+name,utility,lgbm,mix_base,55.407158,44.096496,0.420561,0.761209
+name,utility,lgbm,mix_ft,56.326377,43.87811,0.401176,0.773837

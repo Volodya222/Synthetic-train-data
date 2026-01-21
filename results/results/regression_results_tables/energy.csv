@@ -1,0 +1,11 @@
+dataset,block,model,variant,rmse,mae,r2,nrmse
+name,utility,ridge,real,3.035431,2.190779,0.911603,0.297317
+name,utility,ridge,syn_base,3.745494,2.776057,0.865409,0.366866
+name,utility,ridge,syn_ft,3.701268,2.866106,0.868569,0.362534
+name,utility,ridge,mix_base,3.199259,2.353466,0.901804,0.313363
+name,utility,ridge,mix_ft,3.115091,2.293057,0.906902,0.305119
+name,utility,xgb,real,0.393645,0.251341,0.998513,0.038557
+name,utility,xgb,syn_base,3.45938,2.598413,0.885186,0.338842
+name,utility,xgb,syn_ft,3.156861,2.457913,0.904389,0.30921
+name,utility,xgb,mix_base,0.399336,0.25241,0.99847,0.039114
+name,utility,xgb,mix_ft,0.36761,0.242064,0.998704,0.036007
